@@ -4,6 +4,9 @@ This project aims to provide a video player which could play video frame by fram
 
 FrameByFramePlayer is based on the AVPlayer,In this project,I showed some usage of the AVPlayer.Enjoy it.
 
+Just like *Ubersense* 's video teaching video which is playing a video frame by frame.And you can find more info @http://www.ubersense.com/ about their APP,
+
+
 Documentation
 -------------
 Too be filled.
