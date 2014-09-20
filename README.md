@@ -16,5 +16,3 @@ License
 -------
 
 It is open source and covered by a standard 2-clause BSD license. That means you have to mention *trickyman* as the original author of this code and reproduce the LICENSE text inside your app.
-
-We also accept sponsorship for specific enhancements which you might need. Please [contact me via email](mailto:philipjjj@foxmail.com) for inquiries.
